@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/appTonFirst/precache-manifest.c937221a04adcf1a396e8f48ccdbee08.js"
+  "/appTonFirst/precache-manifest.318d4a95740c435bc800b6ef14d73bd3.js"
 );
 
 self.addEventListener('message', (event) => {

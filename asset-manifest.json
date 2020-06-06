@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/appTonFirst/static/css/main.981f7211.chunk.css",
-    "main.js": "/appTonFirst/static/js/main.10d9a53c.chunk.js",
-    "main.js.map": "/appTonFirst/static/js/main.10d9a53c.chunk.js.map",
+    "main.css": "/appTonFirst/static/css/main.103fd6a1.chunk.css",
+    "main.js": "/appTonFirst/static/js/main.f95bfdeb.chunk.js",
+    "main.js.map": "/appTonFirst/static/js/main.f95bfdeb.chunk.js.map",
     "runtime-main.js": "/appTonFirst/static/js/runtime-main.9ed19a3e.js",
     "runtime-main.js.map": "/appTonFirst/static/js/runtime-main.9ed19a3e.js.map",
     "static/css/2.86df01db.chunk.css": "/appTonFirst/static/css/2.86df01db.chunk.css",
-    "static/js/2.81e50236.chunk.js": "/appTonFirst/static/js/2.81e50236.chunk.js",
-    "static/js/2.81e50236.chunk.js.map": "/appTonFirst/static/js/2.81e50236.chunk.js.map",
+    "static/js/2.bc8b8d9b.chunk.js": "/appTonFirst/static/js/2.bc8b8d9b.chunk.js",
+    "static/js/2.bc8b8d9b.chunk.js.map": "/appTonFirst/static/js/2.bc8b8d9b.chunk.js.map",
     "index.html": "/appTonFirst/index.html",
-    "precache-manifest.c937221a04adcf1a396e8f48ccdbee08.js": "/appTonFirst/precache-manifest.c937221a04adcf1a396e8f48ccdbee08.js",
+    "precache-manifest.318d4a95740c435bc800b6ef14d73bd3.js": "/appTonFirst/precache-manifest.318d4a95740c435bc800b6ef14d73bd3.js",
     "service-worker.js": "/appTonFirst/service-worker.js",
     "static/css/2.86df01db.chunk.css.map": "/appTonFirst/static/css/2.86df01db.chunk.css.map",
-    "static/css/main.981f7211.chunk.css.map": "/appTonFirst/static/css/main.981f7211.chunk.css.map",
-    "static/js/2.81e50236.chunk.js.LICENSE.txt": "/appTonFirst/static/js/2.81e50236.chunk.js.LICENSE.txt",
+    "static/css/main.103fd6a1.chunk.css.map": "/appTonFirst/static/css/main.103fd6a1.chunk.css.map",
+    "static/js/2.bc8b8d9b.chunk.js.LICENSE.txt": "/appTonFirst/static/js/2.bc8b8d9b.chunk.js.LICENSE.txt",
+    "static/media/2MTtfdD.png.jfif": "/appTonFirst/static/media/2MTtfdD.png.4d41d9ce.jfif",
     "static/media/persik.png": "/appTonFirst/static/media/persik.4e1ec840.png"
   },
   "entrypoints": [
     "static/js/runtime-main.9ed19a3e.js",
     "static/css/2.86df01db.chunk.css",
-    "static/js/2.81e50236.chunk.js",
-    "static/css/main.981f7211.chunk.css",
-    "static/js/main.10d9a53c.chunk.js"
+    "static/js/2.bc8b8d9b.chunk.js",
+    "static/css/main.103fd6a1.chunk.css",
+    "static/js/main.f95bfdeb.chunk.js"
   ]
 }
